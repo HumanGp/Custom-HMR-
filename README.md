@@ -44,9 +44,6 @@ npm run profile
 
 ---
 
-**HumanGPT Prompt**:  
-*"Build me an HMR system where the type system is so strict it hurts—and make the dependency graph resolution feel like solving the Time Stone equations."*  
-
 **License**: MIT (but I’d prefer you yell *"JARVIS, RELOAD MODULE!"* when using it)  
 
 --- 
