@@ -1,0 +1,32 @@
+{
+  "name": "custom-hmr-",
+  "version": "1.0.0",
+  "description": "*A TypeScript-powered Hot Module Replacement system built from scratch*  \r # ⚠ WARNING `bugs` included free of charge!",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumanGp/Custom-HMR-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HumanGp/Custom-HMR-/issues"
+  },
+  "homepage": "https://github.com/HumanGp/Custom-HMR-#readme",
+  "dependencies": {
+    "chokidar": "^4.0.3",
+    "esbuild": "^0.25.5",
+    "magic-string": "^0.30.17",
+    "picocolors": "^1.1.1",
+    "typescript-collections": "^1.3.3",
+    "ws": "^8.18.2"
+  }
+}
